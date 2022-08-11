@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arvind Ravulavaru <arvind.ravulavaru@gmail.com> (http://thejackalofjavascript.com)",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "dotenv": "^6.1.0",
+    "forever": "^0.15.3",
+    "mongodb": "^3.1.10",
+    "request": "^2.88.0",
+    "telegraf": "^3.25.0",
+    "telegraf-anycase-commands": "^1.1.0",
+    "telegraf-session-mongodb": "^1.0.1"
+  }
+}
